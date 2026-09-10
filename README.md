@@ -1,2 +1,6 @@
 # apac-chk-cart-profile-manager-svc
-checkout / critical / apac
+
+Team: **checkout**  
+Tier: **critical**  
+Region: **apac**  
+Synthetic demo repo for the Domo governance platform.
